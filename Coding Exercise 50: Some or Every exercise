@@ -1,2 +1,1 @@
-function allEvens(n){
-    return n.every((n)=> n%2 === 0);}
+function allEvens(n){ return n.every((n)=> n%2 === 0); }
