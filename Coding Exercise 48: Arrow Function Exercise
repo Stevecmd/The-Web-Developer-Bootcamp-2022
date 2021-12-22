@@ -1,0 +1,9 @@
+//Soln 1
+const greet = (name)=>{
+    return `Hey ${name}!`;
+};
+
+//Soln 2
+// const greet = (name) => {
+//     return `Hey ${name}!`;
+// };
