@@ -1,0 +1,3 @@
+function validUserNames (names){
+    return names.filter((n)=>n.length<10);
+}
