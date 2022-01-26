@@ -1,0 +1,7 @@
+hello.addEventListener('click', function(){
+    console.log("hello");
+});
+
+goodbye.addEventListener('click', function(){
+    console.log("goodbye");
+});
